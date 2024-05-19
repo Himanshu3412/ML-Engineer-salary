@@ -1,0 +1,8 @@
+[
+    {"year": 2020, "total_jobs": 120, "average_salary": 95000, "job_titles": {"ML Engineer": 50, "Data Scientist": 40, "AI Specialist": 30}},
+    {"year": 2021, "total_jobs": 150, "average_salary": 98000, "job_titles": {"ML Engineer": 60, "Data Scientist": 50, "AI Specialist": 40}},
+    {"year": 2022, "total_jobs": 200, "average_salary": 102000, "job_titles": {"ML Engineer": 80, "Data Scientist": 70, "AI Specialist": 50}},
+    {"year": 2023, "total_jobs": 250, "average_salary": 105000, "job_titles": {"ML Engineer": 100, "Data Scientist": 90, "AI Specialist": 60}},
+    {"year": 2024, "total_jobs": 300, "average_salary": 110000, "job_titles": {"ML Engineer": 120, "Data Scientist": 100, "AI Specialist": 80}}
+]
+  
